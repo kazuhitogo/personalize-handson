@@ -115,7 +115,7 @@ progress」となっていることを確認します。
 
 ![](media/image22.png)
 
-「personalize_handson.ipynb」を開きます。
+「[personalize_handson.ipynb](./personalize_handson.ipynb)」を開きます。
 
 ![](media/image23.png)
 
