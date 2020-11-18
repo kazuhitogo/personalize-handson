@@ -1,6 +1,6 @@
 # Amazon Personalize ハンズオン
 
-本ハンズオンは Amazon Personalize サービスと、 [Movie Lens](https://grouplens.org/datasets/movielens/) というデータセットを使い、映画のレコメンデーションサービスをデプロイするハンズオンです。
+本ハンズオンは Amazon Personalize サービスと、 [Movie Lens](https://grouplens.org/datasets/movielens/) というデータセットを使い、映画のレコメンデーション機能をデプロイするハンズオンです。
 
 ---
 
