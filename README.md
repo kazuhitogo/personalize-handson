@@ -1,17 +1,17 @@
 # Amazon Personalize ハンズオン
 
-本ハンズオンは Amazon Personalize サービスと、 [Movie Lens](https://grouplens.org/datasets/movielens/) というデータセットを使い、映画のレコメンデーション機能をデプロイするハンズオンです。
+本ハンズオンは Amazon Personalize サービスと、 [Movie Lens](https://grouplens.org/datasets/movielens/) というデータセットを使い、映画のレコメンデーション機能をデプロイするハンズオンです。  
+上記データセットについて、このコンテンツ内でダウンロードする処理が入っておりますが、Amazon Personalize の学習用途のみの利用に限り、プロダクション用途などでの利用はお控えください。
 
 ---
 
 ## 前提条件
-本ハンズオンではJupyter Notebook を使用してPython によるプログラミングを行います。Python でのプログラミング知識をお持ちの方
-を対象としています。機械学習の基本的な概念は前提条件といたしますが、カスタムアルゴリズムの作成など、高度な機械学習の知識は必須
-ではありません。AWS に関する知識という面ではAmazon Personalize に関する知識は必須ではありませんが、IAM を利用した権限管理、
-S3 バケットの管理など、AWS の基本的なサービス、およびマネジメントコンソールの操作などに関する知識は必須となります。
-Amazon Personalize のAPI を呼び出す環境としてAmazon SageMaker Notebook インスタンス、開発言語はPython を利用します。
-Amazon SageMaker、Jupyter Notebook、Python 自体の説明については本ハンズオンの対象外となります。また、今回はPython を利用
-しますが、本ハンズオンで実行している処理はAWS CLI などでも実行可能です。
+本ハンズオンではJupyter Notebook を使用してPython によるプログラミングを行います。Python でのプログラミング知識をお持ちの方を対象としています。  
+機械学習の基本的な概念は前提条件といたしますが、カスタムアルゴリズムの作成など、高度な機械学習の知識は必須ではありません。  
+AWS に関する知識という面ではAmazon Personalize に関する知識は必須ではありませんが、IAM を利用した権限管理、S3 バケットの管理など、AWS の基本的なサービス、およびマネジメントコンソールの操作などに関する知識は必須となります。
+Amazon Personalize のAPI を呼び出す環境としてAmazon SageMaker Notebook インスタンス、開発言語はPython を利用します。  
+Amazon SageMaker、Jupyter Notebook、Python 自体の説明については本ハンズオンの対象外となります。  
+また、今回はPython を利用しますが、本ハンズオンで実行している処理はAWS CLI などでも実行可能です。
 
 
 ## 手順概要
