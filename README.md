@@ -1,3 +1,5 @@
+# [こちら](https://github.com/aws-samples/aws-ml-jp/tree/main/ai-services/personalize/personalize-tutorial) に移管しました。
+
 # Amazon Personalize ハンズオン
 
 本ハンズオンは Amazon Personalize サービスと、 [Movie Lens](https://grouplens.org/datasets/movielens/) というデータセットを使い、映画のレコメンデーション機能をデプロイするハンズオンです。  
